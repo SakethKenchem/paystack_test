@@ -114,7 +114,7 @@ class PaystackController extends Controller
 
     public function success()
     {
-        return "Payment was successful";
+        return "Payment was successful!";
     }
 
     public function cancel()
